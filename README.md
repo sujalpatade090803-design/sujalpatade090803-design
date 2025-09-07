@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Sujal  
 
-<!--
-**sujalpatade090803-design/sujalpatade090803-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently exploring **Database Management (SQL)** and **Product Management Launchpad (PML)**.  
+💡 Interested in bridging the gap between **product thinking** and **technical execution**.  
+🚀 I enjoy working with **data**, solving problems through **SQL queries**, and understanding how products grow and scale.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+- **Databases**: MySQL, PostgreSQL  
+- **Core SQL**: CRUD Operations · Joins · Aggregates · Group By/Having · Query Optimization  
+- **Product Management (PML)**: Strategy · User Research · Metrics · Roadmaps  
+- **Programming**: Python (basics), C++  
+- **Tools**: Git · GitHub · Notion · VS Code  
+
+---
+
+## 🌟 What you’ll find here  
+📂 **SQL Projects** – Hands-on practice with queries, joins, aggregates, and database design  
+📂 **Product Management Learnings** – Notes, case studies, and frameworks from PML  
+📂 **Mini Projects** – Experiments combining databases with product insights  
+
+---
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/sujalpatade)  
+- Email: **sujalpatade090803@gma**  
+
+---
+
+✨ *“Great products are built on great data — I’m learning to master both.”*  
+
