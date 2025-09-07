@@ -10,8 +10,7 @@
 - **Databases**: MySQL, PostgreSQL  
 - **Core SQL**: CRUD Operations · Joins · Aggregates · Group By/Having · Query Optimization  
 - **Product Management (PML)**: Strategy · User Research · Metrics · Roadmaps  
-- **Programming**: Python (basics), C++  
-- **Tools**: Git · GitHub · Notion · VS Code  
+- **Tools**: Git · GitHub · Notion  
 
 ---
 
