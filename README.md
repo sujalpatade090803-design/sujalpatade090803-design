@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills & Tools  
-- **Databases**: MySQL, PostgreSQL  
+- **Databases**: MySQL  
 - **Core SQL**: CRUD Operations · Joins · Aggregates · Group By/Having · Query Optimization  
 - **Product Management (PML)**: Strategy · User Research · Metrics · Roadmaps  
 - **Tools**: Git · GitHub · Notion  
@@ -23,9 +23,9 @@
 
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/sujalpatade)  
-- Email: **sujalpatade090803@gma**  
+- Email: **sujalpatade090803@gmail.com**  
 
 ---
 
-✨ *“Great products are built on great data — I’m learning to master both.”*  
+✨ *“Great products are built on great data, I’m learning to master both.”*  
 
