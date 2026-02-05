@@ -1,31 +1,45 @@
 # 👋 Hi, I’m Sujal  
 
-🎓 Currently exploring **Database Management (SQL)** and **Product Management Launchpad (PML)**.  
-💡 Interested in bridging the gap between **product thinking** and **technical execution**.  
-🚀 I enjoy working with **data**, solving problems through **SQL queries**, and understanding how products grow and scale.  
+🎓 Completed hands-on training in **SQL, Power BI, High-Level System Design, and Product Management Launchpad (PML)**.  
+💡 Passionate about combining **product thinking + data + technology** to build scalable and impactful products.  
+🚀 I enjoy solving business problems using **analytics, dashboards, and structured systems thinking**.  
 
 ---
 
 ## 🔧 Skills & Tools  
-- **Databases**: MySQL  
-- **Core SQL**: CRUD Operations · Joins · Aggregates · Group By/Having · Query Optimization  
-- **Product Management (PML)**: Strategy · User Research · Metrics · Roadmaps  
-- **Tools**: Git · GitHub · Notion  
+
+### 📊 Data & Analytics
+- SQL (MySQL) – Advanced Joins · Aggregations · Subqueries · CTEs · Window Functions · Views · Stored Procedures  
+- Power BI – Dashboards · DAX · KPIs · Funnel Analysis · Cohort Analysis · Business Storytelling  
+- Data Modeling · KPI Design · Metrics Analysis  
+
+### 🧠 Product Management
+- User Research · JTBD · PRDs · Roadmaps · Prioritization (RICE/ICE)  
+- North Star Metrics · Funnel Optimization · Retention Analysis · Experimentation  
+- Stakeholder Communication · Cross-functional Collaboration  
+
+### ⚙️ System Design
+- High-Level Architecture · Scalability · APIs · Databases · Caching  
+- Designing systems for performance & reliability  
+- Translating product requirements into technical solutions  
+
+### 🛠 Tools
+- MySQL · Power BI · Git · GitHub · Notion · Excel  
 
 ---
 
 ## 🌟 What you’ll find here  
-📂 **SQL Projects** – Hands-on practice with queries, joins, aggregates, and database design  
-📂 **Product Management Learnings** – Notes, case studies, and frameworks from PML  
-📂 **Mini Projects** – Experiments combining databases with product insights  
+📂 **SQL Projects** – Business-focused database analysis & insights  
+📂 **Power BI Dashboards** – Interactive reports & KPI tracking  
+📂 **Product Case Studies** – Strategy, metrics, and growth thinking  
+📂 **System Design Notes** – Scalable architecture breakdowns  
 
 ---
 
 ## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/sujalpatade)  
-- Email: **sujalpatade090803@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/pmsujalpatade  
+- Email: sujalpatade090803@gmail.com  
 
 ---
 
-✨ *“Great products are built on great data, I’m learning to master both.”*  
-
+✨ *“I bridge the gap between business problems and technical solutions using data, systems, and product thinking.”*
